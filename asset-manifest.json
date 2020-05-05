@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/calculadora/static/css/main.904943da.chunk.css",
+    "main.js": "/calculadora/static/js/main.2c00e9cb.chunk.js",
+    "main.js.map": "/calculadora/static/js/main.2c00e9cb.chunk.js.map",
+    "runtime-main.js": "/calculadora/static/js/runtime-main.1a558344.js",
+    "runtime-main.js.map": "/calculadora/static/js/runtime-main.1a558344.js.map",
+    "static/js/2.a6ec2359.chunk.js": "/calculadora/static/js/2.a6ec2359.chunk.js",
+    "static/js/2.a6ec2359.chunk.js.map": "/calculadora/static/js/2.a6ec2359.chunk.js.map",
+    "index.html": "/calculadora/index.html",
+    "precache-manifest.d6d2dae9c1ef233ea6bedbec42f3f20e.js": "/calculadora/precache-manifest.d6d2dae9c1ef233ea6bedbec42f3f20e.js",
+    "service-worker.js": "/calculadora/service-worker.js",
+    "static/css/main.904943da.chunk.css.map": "/calculadora/static/css/main.904943da.chunk.css.map",
+    "static/js/2.a6ec2359.chunk.js.LICENSE.txt": "/calculadora/static/js/2.a6ec2359.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/calculadora/static/media/RobotoMono-Thin.288302ea.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1a558344.js",
+    "static/js/2.a6ec2359.chunk.js",
+    "static/css/main.904943da.chunk.css",
+    "static/js/main.2c00e9cb.chunk.js"
+  ]
+}
